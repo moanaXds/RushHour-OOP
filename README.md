@@ -17,6 +17,14 @@
 
 ---
 
+## ✅ Screenshots (Optional)
+
+![game-board](https://github.com/user-attachments/assets/2ed511d2-e39a-4121-bea7-67a70caa3461)
+![Menu](https://github.com/user-attachments/assets/c575ca54-1496-41d9-87b4-10d64060c092)
+![leaderboard](https://github.com/user-attachments/assets/7984d079-e50a-4531-8294-8cd74e106cd4)
+
+---
+
 ## 🕹️ Gameplay Features
 
 - 🚖 Player-controlled taxi with arrow key movement.
@@ -85,12 +93,4 @@ This project is reserved under copyright. For usage rights or modifications, ple
 
 - **Muanna Hamid**
 - Email: i242593@isb.nu.edu.pk
-
-
-## ✅ Screenshots (Optional)
-
-![game-board](https://github.com/user-attachments/assets/2ed511d2-e39a-4121-bea7-67a70caa3461)
-![Menu](https://github.com/user-attachments/assets/c575ca54-1496-41d9-87b4-10d64060c092)
-![leaderboard](https://github.com/user-attachments/assets/7984d079-e50a-4531-8294-8cd74e106cd4)
-
 
