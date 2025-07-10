@@ -17,9 +17,29 @@
 
 ---
 
-## ✅ Screenshots 
-
 ![game-board](https://github.com/user-attachments/assets/2ed511d2-e39a-4121-bea7-67a70caa3461)
+
+---
+
+🔵🚙 Blue Car – Player Car
+
+🔴🚙 Red Car – Enemy Car
+
+⚪ White Stickman – Passenger
+
+🟨 Yellow Square – Delivery Box
+
+🟥 Thin Red Bar – Fuel Station 
+
+🟩 Green Square – Delivery Target / End Zone
+
+🟢🟡 Green Circle with Yellow Center – Role Station
+
+🌲 Green Triangles – Trees
+
+⬛ Black Blocks – Buildings
+
+
 ![Menu](https://github.com/user-attachments/assets/c575ca54-1496-41d9-87b4-10d64060c092)
 ![leaderboard](https://github.com/user-attachments/assets/7984d079-e50a-4531-8294-8cd74e106cd4)
 
