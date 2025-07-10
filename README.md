@@ -17,7 +17,7 @@
 
 ---
 
-## ✅ Screenshots (Optional)
+## ✅ Screenshots 
 
 ![game-board](https://github.com/user-attachments/assets/2ed511d2-e39a-4121-bea7-67a70caa3461)
 ![Menu](https://github.com/user-attachments/assets/c575ca54-1496-41d9-87b4-10d64060c092)
