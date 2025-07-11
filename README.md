@@ -22,14 +22,23 @@
 ---
 
 🔵🚙 Blue Car – Player Car
+
 🔴🚙 Red Car – Enemy Car
+
 ⚪ White Stickman – Passenger
+
 🟨 Yellow Square – Delivery Box
+
 🟥 Thin Red Bar – Fuel Station 
+
 🟩 Green Rectancle – Fuel Level Indicator
+
 🟢 Green Circle - Drop Point
+
 🟢🟡 Green Circle with Yellow Center – Role Station
+
 🌲 Green Triangles – Trees
+
 ⬛ Black Blocks – Buildings
 
 
